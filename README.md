@@ -1,7 +1,7 @@
 # Exno.7-Develop a prompt-based application tailored to their personal needs, fostering creativity and practical problem-solving skills while leveraging the capabilities of large language models.
 
 # Date: 10/10/25
-### NAME: NABISHA A
+### NAME : NABISHA A
 # Register no. : 212223060177
 
 # Objectives:
